@@ -1,0 +1,9 @@
+# --- large data outputs (do not commit) ---
+*.parquet
+*.csv
+
+# if you want to keep small CSVs tracked, replace the above with:
+# _data/**
+# _output/**
+# and then whitelist specific small files
+
